@@ -1,6 +1,6 @@
 # Leetcode
 
-[Задачи]()
+[Задачи](https://github.com/yaricon/Leetcode/blob/main/Решенные%20задачи.ipynb)
 
 В данном репозитарии находятся решенные задачи (алгоритмы) с сайта Leetcode на языке Python.
 
